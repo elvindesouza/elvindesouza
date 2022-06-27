@@ -1,5 +1,5 @@
-Elvin deSouza
+# Elvin deSouza
 
-reach out to me at lowercase fullname (gmail or tutanota)
+*reach out to me at lowercase fullname (gmail or tutanota)*
 
-will attach my GPG pubkey
+public key is available [here](./public-key.gpg)
