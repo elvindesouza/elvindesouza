@@ -1,5 +1,8 @@
 # Elvin deSouza
+## [Website](https://elvindsouza.github.io)
 
-*reach out to me at lowercase fullname (gmail or tutanota)*
+## Computer Engineering (majoring in Infomation Security) undergraduate
 
-public key is available [here](./public-key.gpg)
+_you may reach out to me at lowercase fullname (gmail or tutanota)_
+
+[public key](./public-key.gpg)
