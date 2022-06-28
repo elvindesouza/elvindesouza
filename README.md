@@ -1,8 +1,13 @@
 # Elvin deSouza
-## [Website](https://elvindsouza.github.io)
 
-## Computer Engineering (majoring in Infomation Security) undergraduate
+## Computer Engineering undergraduate at Vishwakarma University, Pune
 
-_you may reach out to me at lowercase fullname (gmail or tutanota)_
+## Majoring in Infomation Security
 
-[public key](./public-key.gpg)
+### [Website](https://elvindsouza.github.io)
+
+### [Contact Me](https://elvindsouza.github.io/about/contact)
+
+### [Public Key](./public-key.gpg)
+
+---
