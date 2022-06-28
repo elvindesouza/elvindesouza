@@ -1,6 +1,6 @@
 # Elvin deSouza
 
-## Computer Engineering undergraduate at Vishwakarma University, majoring in Infomation Security
+**Computer Engineering undergraduate at Vishwakarma University, majoring in Infomation Security**
 
 ### [Website](https://elvindsouza.github.io)
 
