@@ -2,6 +2,8 @@
 
 **Computer Engineering undergraduate at Vishwakarma University, majoring in Infomation Security**
 
+**I like programming, cybersecurity, and linux.**
+
 ## [Website](https://elvindesouza.github.io)
 
 <p style="padding:10px;">
@@ -26,8 +28,12 @@
 
 ## [Contact Me](https://elvindesouza.github.io/about/contact)
 
-#### [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/elvindesouza/) [LinkedIn](https://www.linkedin.com/in/elvindesouza)
+## <a href="mailto:elvindesouza@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/> [elvindesouza@gmail.com](mailto:elvindesouza@gmail.com)
 
-#### <a href="mailto:elvindesouza@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> [E-Mail](mailto:elvindesouza@gmail.com)
+## [Public Key](https://github.com/elvindesouza/elvindesouza/blob/master/public-key.gpg)
 
-#### [Public Key](./public-key.gpg)
+## <a href="tel:+918975940921"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Phone_Shiny_Icon.svg" width="4%"/> [Phone](tel:+918975940921)
+
+## <a href="tel:+918975940921"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="4.5%"/> [Whatsapp](https://wa.me/918975940921?text=)
+
+## [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/elvindesouza/) [LinkedIn](https://www.linkedin.com/in/elvindesouza)
