@@ -30,8 +30,7 @@ I talk about things I am fascinated by.
 
 # [Contact Me](https://elvindesouza.github.io/about/contact)
 
-<a href="mailto:elvindesouza@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/> [elvindesouza@gmail.com](mailto:elvindesouza@gmail.com)
-
+<a href="mailto:elvindesouza@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/> [elvindesouza@gmail.com](mailto:elvindesouza@gmail.com) |
 [Public Key](https://github.com/elvindesouza/elvindesouza/blob/master/public-key.gpg)
 
 <!-- ## <a href="tel:+91"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Phone_Shiny_Icon.svg" width="4%"/> [Phone](tel:+91) -->
