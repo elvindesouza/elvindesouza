@@ -35,6 +35,6 @@ I talk about things I am fascinated by.
 
 <!-- ## <a href="tel:+91"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Phone_Shiny_Icon.svg" width="4%"/> [Phone](tel:+91) -->
 
-<a href="https://wa.me/918975940921?text="> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="3%"/> [Whatsapp](https://wa.me/918975940921?text=)
+<a href="https://wa.me/918975940921?text="> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="3%"/> [WhatsApp](https://wa.me/918975940921?text=)
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.6%"/>](https://www.linkedin.com/in/elvindesouza/) [LinkedIn](https://www.linkedin.com/in/elvindesouza)
