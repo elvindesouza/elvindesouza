@@ -1,6 +1,6 @@
 # Elvin deSouza
 
-**Computer Engineering undergraduate at Vishwakarma University, majoring in Infomation Security**
+**Computer Engineering undergraduate in Hof, Bavaria, Germany**
 
 **I like programming, cybersecurity, and linux.**
 
